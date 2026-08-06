@@ -1,7 +1,6 @@
-date,official,placard_type,platform,post_url,image_hash,text_snippet,notes,sha256_evidence,word_count,duplicate_flag
-2026-06-15,Nancy Mace,No Funds for Fascists Act,Facebook,https://facebook.com/example1,,No Funds for Fascists Act - virtual placard,First instance,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,8,FALSE
-2026-06-18,Nancy Mace,Foreign-born judges,Facebook,https://facebook.com/example2,,Foreign-born judges should not,Same template,abc123,6,FALSE
-2026-06-20,Nancy Mace,No Funds for Fascists Act,Facebook,https://facebook.com/example3,,No Funds for Fascists Act - REPOST,DUPLICATE same graphic,def456,8,TRUE
-2026-07-02,System,Rate Limit Example,Facebook+Instagram,https://example.com/rate,,Rate limits vs Newsworthiness,Meta System,789xyz,5,FALSE
-2026-07-28,System,Mount Holly Fire District Block,Facebook,https://example.com/mh,,Hear! Hear! comment blocked,Local gov,012uvw,4,FALSE
-2026-07-29,System,Typing Tax,Facebook,https://example.com/typing,,Typing indicator tax,Inflection,345rst,3,FALSE
+timestamp,id,component,edition,primary,secondary,year,president,action,notes
+2026-08-06T10:00:00Z,OGE-1986-001,dashboard.html,Old Glory Edition,#0A3161,#B31942,1986,Ronald Reagan,export,Liberty Centennial
+2026-08-06T10:00:00Z,OGE-1986-002,cards.html,Old Glory Edition,#0A3161,#B31942,1986,Ronald Reagan,export,Tax Reform Act
+2026-08-06T10:00:00Z,OGE-1986-003,placard-lab.html,Old Glory Edition,#0A3161,#B31942,1986,Ronald Reagan,export,Proclamation 5487
+2026-08-06T10:00:00Z,OGE-1986-004,Cumulative-CSV.csv,Old Glory Edition,#0A3161,#B31942,1986,Ronald Reagan,export,Reykjavik Summit
+2026-08-06T10:00:00Z,OGE-1986-005,data-corps-dataset,Old Glory Edition,#0A3161,#B31942,1986,Ronald Reagan,export,Challenger Address

@@ -1,26 +1,21 @@
-DATE|OFFICIAL|PLACARD_TYPE|PLATFORM|POST_URL|IMAGE_HASH|TEXT_SNIPPET|NOTES|SHA256_EVIDENCE
-2026-06-15|Nancy Mace|No Funds for Fascists Act|Facebook|https://facebook.com/...|phash_a1b2|No Funds for Fascists Act - virtual placard|First instance logged|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-2026-06-18|Nancy Mace|Foreign-born judges|Facebook|https://facebook.com/...|phash_b2c3|Foreign-born judges should not...|Same template different text|...
-2026-06-20|Nancy Mace|No Funds for Fascists Act|Facebook|https://facebook.com/...|phash_a1b2_dup|No Funds for Fascists Act - REPOST|DUPLICATE - same graphic|...
-2026-07-02|Nancy Mace|Rate Limit Example|Facebook+Instagram|https://...|phash_c3d4|Rate limits vs Newsworthiness|Meta System example|...
-2026-07-28|System|Mount Holly Fire District Block|Facebook|https://...|phash_d4e5|Hear! Hear! comment blocked|Local gov block|...
-2026-07-29|System|Typing Tax|Facebook|https://...|phash_e5f6|Typing indicator tax|Inflection point|...
+CUMULATIVE EXPORT LOG - OLD GLORY EDITION
+Edition: Old Glory Edition #0A3161 #B31942
+Reagan 1986 - 40th President
+Generated: 2026-08-06
+============================================================
 
-# DAILY UPDATE INSTRUCTIONS:
-# 1. Add new line each day at bottom with today's DATE (YYYY-MM-DD)
-# 2. PLACARD_TYPE: Use exact same spelling for duplicates to auto-detect repeat rate
-# 3. Suggested PLACARD_TYPE values:
-#    - No Funds for Fascists Act
-#    - Foreign-born judges
-#    - Hold The Line - Bathroom Bill
-#    - TRANS MICE Act
-#    - Live Event Block
-#    - Rate Limit / Newsworthiness
-#    - Mount Holly Fire District Block
-#    - Typing Tax
-#    - Open Letter to Meta
-#    - Spam Limit Screenshot
-#    - Other - [describe]
-# 4. IMAGE_HASH: Leave blank or use perceptual hash if you have tool
-# 5. TEXT_SNIPPET: First 100 chars of post
-# 6. Save file, commit to GitHub daily
+COMPONENTS EXPORTED:
+- dashboard.html (OGE-1986-001) - Command Dashboard - Status: exported
+- cards.html (OGE-1986-002) - Card Archive - Status: exported
+- placard-lab.html (OGE-1986-003) - Placard Lab - Status: exported
+- Cumulative-CSV.csv (OGE-1986-004) - Cumulative Export - Status: generated
+- data-corps-dataset (OGE-1986-005) - Data Corps - Status: generated
+
+MILESTONES 1986:
+- Proclamation 5487 - Liberty Weekend - July 3, 1986
+- Tax Reform Act - Oct 22, 1986
+- Reykjavik Summit - Oct 11-12, 1986
+- Challenger Address - Jan 28, 1986
+- Liberty Centennial - July 4, 1986
+
+END LOG
