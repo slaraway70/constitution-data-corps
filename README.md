@@ -123,3 +123,4 @@ Author: Stone Laraway — MBS Rutgers Student of Lindy Ryan ICAI Member Storinge
 Permanent Links: Hub https://slaraway70.github.io/constitution-data-corps/ Dashboard https://slaraway70.github.io/constitution-data-corps/dashboard.html Cards https://slaraway70.github.io/constitution-data-corps/cards.html Lab https://slaraway70.github.io/constitution-data-corps/placard-lab.html Governance https://slaraway70.github.io/constitution-data-corps/governance.html Datasets https://slaraway70.github.io/constitution-data-corps/datasets.html QR https://slaraway70.github.io/constitution-data-corps/qr-poster.html Leen https://slaraway70.github.io/constitution-data-corps/cards.html?card=leen-hijaz
 OpenSecrets Credit: https://www.opensecrets.org/members-of-congress/nancy-mace/summary?cid=N00035670 — Credit OpenSecrets — Feel free to distribute or cite but credit OpenSecrets
 License: Open Source — Citizen Data Defense — We The People Are The Backup // R+B=P // END — CLEAN
+
