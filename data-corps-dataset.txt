@@ -1,10 +1,1126 @@
-OLD GLORY EDITION DATASET - REAGAN 1986
-Colors: #0A3161 (Old Glory Blue) / #B31942 (Old Glory Red) / #FFFFFF
-Year: 1986 | President: Ronald Reagan (40th)
-============================================================
+OLD GLORY EDITION - DATA CORPS DATASET
+Colors #0A3161 #B31942 | Reagan 1986 | Political Posts Tracking Format
+Total: 224 posts
+Generated: 2026-08-06T05:51:51.698895
+================================================================================
 
-OGE-1986-001 | dashboard.html | Command Dashboard | exported | Liberty Centennial
-OGE-1986-002 | cards.html | Card Archive | exported | Tax Reform Act
-OGE-1986-003 | placard-lab.html | Placard Lab | exported | Proclamation 5487
-OGE-1986-004 | Cumulative-CSV.csv | Cumulative Export | generated | Reykjavik Summit
-OGE-1986-005 | data-corps-dataset | Data Corps | generated | Challenger Address
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  |  | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: 
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-02-10 06:42:25 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0ZMiYBPawv8Eefx2Q7qUwsmUVaqPppbrjUBsmJpi3JLyXgc1eN4gyGGCBBgcfNFdgl
+Snippet: Announcement 📣  Please join if you’re open to discuss real world and local issues pertaining to the United States. Please have an open-mind and respect other people’s opinions. Also respect facts (mus
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-05-25 12:16:17 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0xLWvVWjPu8x724GFw34ixpwui8D6u67heKdNBieauXYfHL4saUxEmYYcmoWBL3bTl
+Snippet: Just like Frodo, I'm on a mission to destroy the "ring" of divisiveness and manipulation, and Trump's "eye" is ever watchful, seeking to maintain its grip on power. By acknowledging his gaze, I'm taki
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-05-29 06:37:30 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02t5NdAtWMQc8bRQWF4dPT4N2A15BANMjBdzRwP7xpsc5UwemRYiagZrYDcwY1KfWzl
+Snippet: A New Kind of Leadership  Tired of politics as usual? Meet John Stone Laraway II, a Lincoln Republican running for President (and NJ Senate) on a platform of integrity, democracy, and people over part
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-05-31 14:00:31 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid024SU3bbU4axoeJ9oA82DXb3aPUG97UMfw2pGCuWbj3UGWBBRQ5b8XrtqwinFF1JChl
+Snippet: President Trump's claims of a 'stolen' election are baseless and harmful. It's time to focus on securing our democracy and promoting voter access, not spreading misinformation! #MAGA #KAG #FakeNews #E
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-02 16:29:16 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0SxHwpt6Lh8jr1v6byBTin1G1vLW2M3TdGemxNGxbAK5guNXDEbmv7MNm1YV9DimKl
+Snippet: Join the movement! As a Lincoln Republican, I stand for individual freedom, reproductive rights, and the power of the people. Take the purple pill and wake up to a future where 'My body. My choice. My
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-03 07:27:09 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02Vzfd2CjJRD7QwGvqykxR6ZbTbvjMDRT3fF9xpHsZNtYBrZwp6ZhoVpq5ur1smKV5l
+Snippet: As a Lincoln Republican, I'm willing to be the 'Fall Guy' for a broken system, taking responsibility for the mistakes of the past and absorbing the impact of today's political climate. But I won't sto
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-04 09:52:30 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02eG6g6gNp7zLkJpe3WfzVeNu9Vd3So9utmiQiWA6N9s8AZ25gVQrpRhWqyfW7eAP2l
+Snippet: I have a different view on this. On my platform, I am and will never reach out and ask for a donation. The key word here is ‘ask’. I will take a donation, but I won’t ask. Why do you ask? Because I ha
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-04 10:00:13 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0vKt1f4g6QNxb33VUbcGRQRpyZHJm2bXRWh8JNaNqHkJX55JU2s51NJvr4JmWi1adl
+Snippet: How about: “Save yourselves” and vote for a candidate who stands for integrity, honesty, trustworthiness, reliability, responsibility, and courage?
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-05 02:44:37 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0x8HX43qjmD1nMLqStfXLRPCNspudjLWqqNC48FCXUw7fcttKeTmEa37rhnfpDXrHl
+Snippet: While you are sleeping, I would be too, but my brain is in overdrive with ideas, thoughts, and trying to solve how to get Trump Republicans more central on issues, policies, and concerns.   Democrats 
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-05 07:41:48 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0241MA7kEoDnwJpgZMTfpEnsgpF3WkUoMUqdub2wbe17XJgEe9DVVb9JTBgyxfNmZml
+Snippet: Joe Parker I do enjoy a good debate from either side of the aisle. I also appreciate adults in the room who adhere to and respect decorum in public discourse. Both sides could learn a thing or two fro
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-05 14:27:39 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0SebqFHTx91kDowswTjz3JEpaVoPekvoJpdMCy2WJXg4QJjzcuNTstMVF9ynxQh5dl
+Snippet: 'Safe and Sound' by Justice is more than just a song - it's a rallying cry for my Lincoln Republican values! The lyrics 'rise up' resonate deeply, urging me to stand up for freedom, liberty, and truth
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-07 05:18:45 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid08pbkrRdnLTBwxuKQkB22YCzotfPzvYMN89fELhHeGFS3SqzYUcthmJi3cQxLDraCl
+Snippet: Rep. Stefanik, your actions are like those of the Empire's darkest leaders, prioritizing power over people and spreading misinformation like a swarm of Imperial TIE fighters. But we, the Rebel Allianc
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-09 06:28:26 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02nBmHkwhKU6uro76jzgGE3vmEg3UumzJkijvUSCNy43sS4N8vNyKnCxzcqDMUC9fZl
+Snippet: I understand the concern, but let's not spread fear. Let's work together to ensure a future where our rights and freedoms are protected. Vote for me and let's build a brighter future for all.  "Your V
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-15 16:50:15 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid033pKNRHkVs4LUS5bMHCdYokRf3c2T3qTRgeUwhiB29w44NdPre7MV7jKtQp5aqEESl
+Snippet: #provincetown #Massachusetts @[552448115493280:69:PTown Community Space.] @[100064598565114:2048:Provincetown]  I would like to clarify my political stance and platform as a Lincoln Republican, which 
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-16 06:00:17 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0rs3U7bMeyL35ge1AxbcMh7XoPvDfniYgd79JYqs8fyed5W5gV6c2GJGVfC7AUrksl
+Snippet: Imagine a world where Beethoven's symphonies, Stephen King's dark struggles, Quentin Tarantino's stylized violence, and Robert De Niro's gritty characters unite with the high-octane energy of WWW wres
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-17 02:56:39 | Platform: 'Equality for All' Grooves to Frankie Knuckles' Beat, Taylor Swift's Voice, Penzey's Spicy Justice, and Honest-Tea's Refreshing Support - 'A Little Bit of Justice' for a Brighter Future! #RBG #LincolnRepublicans #EqualityForAll #FrankieKnuckles #TaylorSwift #Penzeysspices #Penzeys #HonestTea #JusticeForAll #LGBTQPlus #GenderEquality #RacialEquality #SocialJustice #Inclusion #Diversity #Unity #RespectForAll #KindnessMatters #PositiveVibesOnly | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0kZJH6rkRrwsmhrzo9Vu8yrcWKdS1BySeTM3U21kfCcpAAzPcJQQHrqkhPEtV2RRjl
+Snippet: RBG's Legacy Meets Lincoln Republicans' Platform: 'Equality for All' Grooves to Frankie Knuckles' Beat, Taylor Swift's Voice, Penzey's Spicy Justice, and Honest-Tea's Refreshing Support - 'A Little Bi
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-22 22:29:00 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0D5JgcFafXC1icobQ9LBbPH7B45mZTR1TkD4qewbfjV7LYH4qENa3bWpGuFjzWLaHl
+Snippet: The Illusion of Choice: RNC and DNC's Stranglehold on Politics  The RNC and DNC's stranglehold on the political process has led to a crisis of representation and accountability. By excluding third par
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-22 22:42:41 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0Yz6NPG9a6psAMMNZFpxbHub6FRxft88PYEQ6TewejvjCLqLdAXwJPLHwNQyN73Mxl
+Snippet: Adam Kinzinger's Surprise Retirement: A Search for Answers  As the country grapples with polarization and political unrest, Rep. Adam Kinzinger's decision to retire from Congress raises questions. Aft
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-28 04:36:25 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0nzqPDWtM2cuVZ53VGuvpDikicYWtD3iGHo1Mv8mLUgwNadDUcFi1mSVwyFncwmSBl
+Snippet: Didn't watch the presidential faux-pas masquerading as a debate last night? Me neither! 🙅‍♂️ No audience, scripted questions, and two candidates who didn't impress. One's a convicted felon and the oth
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-28 05:43:01 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0kbGGZGhGjMnDEwF2xbgFqA1V5YJKd7mnTBbjsBahn5gF8s4zzyEpzGVRYZbF39q9l
+Snippet: The distinction between the Lincoln Republicans and the mainstream Republican party  Wrong! Lincoln Republicans would never enable Trump's antics. They'd strip him of the mic and wouldn't have let a c
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-28 05:49:55 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02E3shzmzf9NvNczk3C3JUGqXrk8Kah3m6k8suRkk31bQCFigYLoQtaz5CwHpfMen6l
+Snippet: The purple wave is coming! Lincoln Republicans will restore democracy, hold people accountable, and end the duopoly. Don't settle for more of the same. Let's create a better future for our children. #
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-28 06:05:32 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02659m45BZeMbiRSyQDbnPZbNr82dgi99wsxhqZWxzu1kmXcmA1q5gGULzAesFkUDyl
+Snippet: We warned you four years ago that running a corporate-backed candidate like Joe Biden would lead to disastrous consequences, including the rise of authoritarian figures like Trump. Let's learn from ou
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-28 10:02:43 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0qsbfKkj6ooqANzs4zVrh1NfCdKAj3Jfio93hj5D4mGU7xPfvpbDJSAQDhvKT826Rl
+Snippet: No. You have more than enough money. Use your ill received money and fund it yourself.   We demand change in the political funding system. I am refusing to donate, instead challenging the Democratic P
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-29 15:14:37 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0T8EMfKmqBEY2zSjWC4ue7bU5m9mpttS8SSiX3kiiz7H4tcnKCT87FKqbtZAJ6TaTl
+Snippet: "Couldn't agree more! The duopoly has got to go! It's time to break free from the two-party stranglehold and embrace the diversity of thought and representation that other viable candidates offer. Let
+--------------------------------------------------------------------------------
+Post_ID:  | 2024-06-30 21:11:27 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0NiMPBi4yr65TmniRVoA7LMSihNPeEyH6vVyri4HQHYLCSinSDoBeJjPRdhoDcLfdl
+Snippet: The President of the United States has a unique role and responsibility, and excuses or comparisons to everyday struggles don't apply. It’s important to hold him accountable in a leadership positions.
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-01-24 09:26:12 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0Nyy9VTMem6PsChdWfCX5TouDmt997f8Xjo5GgsyGy1qwGoQpQ7L7QRbRC95MuwTel
+Snippet: For those who replied “I don’t piss in the wind” or “I don’t want to rock the boat” or “I don’t want to get involved” or “think it won’t happen to them” or “think it won’t happen here” or “are only co
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-01-28 18:16:04 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02SF7u3Ff9GY9jfVxGjXEyAi4vJrSkwyWjHpo3xWjViso5huRg1LJbUyyL3avg6VVfl
+Snippet: @[100059479812265:2048:CNN] Town Hall #CNNTownHall #thesourcewithkaitlancollins @[100059494661729:2048:Anderson Cooper 360]  Why isn’t Anderson calling out these Republicans lies about Govenor Waltz? 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-01-28 18:59:04 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0JJahDpqhmJ8N6nPCnCkBKiyX2KDb9cWHDoFD8nP1kegBR6bTU7sJF2ZpUfcaB6Nql
+Snippet: Trump continues to weaponize speech and incite potential violence on Truth Social against representatives and CNN want us to believe he’s going to apologize, tone down his vitriolic rhetoric, remove I
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-04-08T00:00:00Z | Platform: FACEBOOK | Label: The Hill Post
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0Xaqi9Ez9Z9iNNpNffzorJRtZXa1hAaa7KeB6gV3zAGeJVj6hkV1bpC4sD2myURQAl
+Snippet: 2026-04-08T00:00:00Z   Label: The Hill Post  Sub Label: “BOEBERT: DEMOCRATS 'TAKING OUT THEIR OWN...'”  Words by J Stone Laraway II, edits/revised by MetaAI   Me:  Rep. Lauren Boebert says Democrats a
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-04-08T00:00:00Z | Platform: FACEBOOK | Label: Washington Times Opinion Post
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02ACkzMxiCKpXQE8mMxg99JsXbT44tteSmUbsW9tUpS18uunx8f7CBiZXFHXsTZrjLl
+Snippet: 2026-04-08T00:00:00Z   Label: Washington Times Opinion Post  Sub Label: “What would Jefferson Fisher do in this situation?”  Words by J Stone Laraway II, edits/revised by MetaAI   Me:  What would Jeff
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-04-08T00:00:00Z | Platform: FACEBOOK | Label: Republicans Facebook Post
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid033gZcofXQ7PiBvG3Brjvk6dqrWcvHuixwUuYB9ZCAsgTjFihCBVijzFsR1B5NvZwyl
+Snippet: 2026-04-08T00:00:00Z   Label: Republicans Facebook Post  Sub Label: “ONE DAY TO GO PATRIOTS! 1 DAY until 250 YEARS”  Words by J Stone Laraway II, edits/revised by MetaAI   Me:  More grandstanding. Lin
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-04-08T00:00:00Z | Platform: FACEBOOK | Label: Brian Tyler Cohen Post
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02VWi3b5stuzs77ccHJ5SxXNUN4NYFwb469v9bEfDkM8FnTyfdoJQUAzcheihameEQl
+Snippet: 2026-04-08T00:00:00Z   Label: Brian Tyler Cohen Post  Sub Label: “REPUBLICANS OWN JANUARY 6TH.”  Words by J Stone Laraway II, edits/revised by MetaAI   Me:  Partially accurate. Where I differ: we all 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-04-08T00:00:00Z | Platform: FACEBOOK | Label: Lars Mapstead Post
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02jVA3P5mQM6VGUdKYL5es9z2qiD11xtuMTL2wD3kAgGXQbY8dmtc62Y2UiXe1d9aJl
+Snippet: 2026-04-08T00:00:00Z   Label: Lars Mapstead Post  Sub Label: “Socialism is on the rise in America. This will end very badly!”  Words by J Stone Laraway II, edits/revised by MetaAI   Me:  Note: We alre
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-04-08T00:00:00Z | Platform: FACEBOOK | Label: Leaders We Deserve Email
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02HKgYkFN4VXnFCos8xUXpU9p7MzkNjKbcLbeZFZMDMrtSiEDPzLok32X94XAfC8SMl
+Snippet: @[100094907005609:2048:Leaders We Deserve]   2026-04-08T00:00:00Z   Label: Leaders We Deserve Email  Sub Label: “We’re going on offense against the GOP”  Words by J Stone Laraway II, edits/revised by 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-04-08T00:00:00Z | Platform: FACEBOOK | Label: Stephen Miller
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0rCvqWrxJyE8yJgkJ9JytjVEjgbjWxbNrKjeiyhJh3gsaDKSb6YrcseRMm4mEc5Usl
+Snippet: 2026-04-08T00:00:00Z   Label: Stephen Miller  Sub Label: “A vote for any Democrat” empowers a party threatening America’s security  Words by J Stone Laraway II, edits/revised by MetaAI   Me:  Lincoln 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-05-04T20:10:00-04:00 | Platform: FACEBOOK | Label: Republicans / “MAGA Train”
+Sub-label: Lincoln Republican (J. Stone Laraway II brand)
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02BNoAQzGgrmbe2jeufc4MVnCDaRQyhScTahsSBRt1Yx5UqovEB3trJmmxk7L3RcHel
+Snippet: 2026-05-04T20:10:00-04:00   Words by J. Stone Laraway II, edits/revisions by Meta AI  Label: Republicans / “MAGA Train”   Sub-label: Lincoln Republican (J. Stone Laraway II brand)   Sub-label: Me: “GE
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-05-04T20:40:00-04:00 | Platform: FACEBOOK | Label: Dissent / Patriotism
+Sub-label: Lincoln Republican (J. Stone Laraway II brand)
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0ai8Tbfr2eavpQ7puGLsxuwFArveQZ8S8WQqycjo2d9bbp91VrXy32ZYxLpUaxKaul
+Snippet: 2026-05-04T20:40:00-04:00   Words by J. Stone Laraway II, edits/revisions by Meta AI  Label: Dissent / Patriotism   Sub-label: Lincoln Republican (J. Stone Laraway II brand)   Sub-label: Me: “The loud
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-05-10 14:41:41 | Platform: INSTAGRAM | Label: 
+Sub-label: 
+URL: https://www.instagram.com/p/DYLHFLTmkW-/
+Snippet: 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-21 03:05:18 | Platform: THREADS | Label: How are we going to Recover from Trump
+Sub-label: 
+URL: https://www.threads.com/@stonelaraway/post/DZ2AxgmHOAu
+Snippet: Label: How are we going to Recover from Trump  Words by J. Stone Laraway II, tweaks by MetaAI  Quote from source:  URL: https://www.facebook.com/share/r/1Hic67NX7X/?mibextid=wwXIfr  Me:  They didn’t g
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-24 23:52:09 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02rSaXTjksk3vhyXvgepC58b6bpZX8YuSrJ1rMWVSUuzYSfJ2f2BNvRNFKLMQCCrbTl
+Snippet: Words by J. Stone Laraway II Tweaks by MetaAi  Quote "Electoral victories by socialists around the country show that the Democratic establishment is weak and can be overthrown.... The Left Is Rising. 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-25 00:19:53 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0PJrxiWvfNPhAwdmXLSBGqkv2V9GYRXS4jufSoARZ2wvwqBM46LpwH32K717DV8Ccl
+Snippet: Words by J. Stone Laraway II Tweaks by MetaAi  Quote "Stephen Miller warns New York’s Democratic primary is the latest sign of a party moving sharply left, with new candidates who want to abolish ICE,
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-26 07:54:12 | Platform: FACEBOOK | Label: Mark Davies
+Sub-label: Republican Party
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0jB2eju25WQ5Dd4GGJAc5iBuz7pM1uGubJDyVNdiZQqWW925fSezZ17kXBfPSK3dcl
+Snippet: Label: Mark Davies   Sub-Label: Republican Party   Words by J. Stone Laraway II, retouched by MetaAI    Mark Davies:   US Republicans are bad mouthing Democratic Socialism not because they think it'll
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-27 03:46:01 | Platform: FACEBOOK | Label: AIPAC
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02mRKGxTX3d5Vx8qkkqvVWxH1cBb536WmZEKUJbbCUYCm3pcKGuxVh1TjX6SFnae6fl
+Snippet: Label: AIPAC   Reference url: https://www.facebook.com/share/v/1LP3Ek7piQ   Words by J. Stone Laraway II, retouched by MetaAI    Context:   Video discussing AIPAC’s role in U.S. elections, lobbying, a
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-27 04:37:55 | Platform: FACEBOOK | Label: Van Jones
+Sub-label: allegedly reasonable democrats
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02G1zxToLF8YbGRg4qHvQdW4bjmJ1GBsvPfTVuexoEKVn8i9zdGqt1pEvxvc6RKAM8l
+Snippet: Label: Van Jones   Sub-Label: allegedly reasonable democrats   Words by J. Stone Laraway II, retouched by MetaAI    Context:   Van Jones post: "Reasonable Democrats are going to have to get off their 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-27 07:54:26 | Platform: FACEBOOK | Label: Human Reform Politics
+Sub-label: JFK
+URL: https://www.facebook.com/stone.laraway/posts/pfbid029qu8p1v9AhDPzxLbYQ4EMzPtoPCoQnmf1gRwSvKFnwFXR3mYCup3waVMdGz448U6l
+Snippet: Label: Human Reform Politics   Sub-label: JFK   Words by J. Stone Laraway II, retouched by MetaAI    Context:   Human Reform Politics post with JFK image, Palestinian flag silhouette, and quote: "Thos
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-27 18:32:59 | Platform: FACEBOOK | Label: Nancy Mace
+Sub-label: Sharia Law
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02AjEEAWHKLktK4QdH55Wd6UcpJQSrZ4D1RxpGNkaeeupK3YheYKHgPx11mydpecxMl
+Snippet: Label: Nancy Mace   Sub-label: Sharia Law   Words by J. Stone Laraway II, retouched by MetaAI    Context:   Social media post from Congresswoman Nancy Mace: "Sharia Law has NO place in America."  Me: 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-29 15:28:58 | Platform: FACEBOOK | Label: Nancy Mace “The Democrat Party is not just different than it was 20 years ago. It is unrecognizable. They fight harder for illegal immigrants than American citizens. They support attacking and defunding the law enforcement officers who keep our communities safe, instead of going after actual criminals. They embrace socialists. Polling shows only 29% of Democrats are actually happy to be American. If you told anyone 20 years ago New York City would have a Muslim mayor, they'd be disgusted.
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02SRAfh8jWWtsAmfoJKBkgLF7L4eB1xBfR3tbGdEsJPGQtAT8gxgcdQn1yJQiK5wuxl
+Snippet: Label: Nancy Mace “The Democrat Party is not just different than it was 20 years ago. It is unrecognizable. They fight harder for illegal immigrants than American citizens. They support attacking and 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-30 02:33:39 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0AWfqBBkJAtfd6WfWEC1PFPwLhbmiZQgZattPjmGVmcVsVk7ygFe1Uog94F2iQid9l
+Snippet: Headliner:   "No Longer an American Party"? Lincoln Republicans Still Are.  TL;DR Comment:   Calling an entire party “no longer American” isn’t leadership. As a Lincoln Republican, I reject that. Mill
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-30 12:14:44 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid059y56bXUxhuaKtsGoXRJkeoXkXxh3dwDLxeR2Hmw5jwyafyUFfohYDegtMdpZt11l
+Snippet: Headliner:   "If Crosswalks Are for Expression, the Constitution Doesn’t Pick Favorites."  TL;DR:   Love the flag. The Flag Code says don’t walk on it, but SCOTUS says it’s advisory. So if rainbow cro
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-30 17:34:11 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid05tT6SfkuwEe3CBsqgGaMRFTVVB58xxAKqNrk6Yi6ZLQxPLMUStE1Lk3hptkvNAkxl
+Snippet: Headliner:   "Invasion Has a Legal Definition. So Does Immigration. Pick One Standard."  TL;DR:   Bans are legal under 8 U.S.C. §1182(f), upheld in Trump v. Hawaii. “Invasion” means armed attack per A
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-06-30 18:53:49 | Platform: FACEBOOK | Label: Republicans
+Sub-label: As a Lincoln Republican
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02WQ37WLbyFMnxQBGQRuVU9yMh1fQkHRZiph23Pw1sdaW16NH4VHax3gU6HQYGaXFgl
+Snippet: Label: Republicans   Sub-label: As a Lincoln Republican   Words by J. Stone Laraway II, retouched by MetaAI    Label Quote:   Republicans: “IT’S COOL TO LOVE AMERICA.”   Mary Brooks: “God Blessed us t
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-01 12:07:08 | Platform: FACEBOOK | Label: The Hill
+Sub-label: Vice-President Vance
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0UbdiT3ch11uhVSL2wiZiT5rHay1UPk5FzWhcjhXmZ7VLX4R6Hyv8AoVX85MavsTvl
+Snippet: Label: The Hill   Sub-Label: Vice-President Vance   Sub-label: Me: This is not communism. He knows this, but willfully spreads the misinformation anyway. As a Lincoln Republican, I reject fear-based p
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-02 09:52:47 | Platform: FACEBOOK | Label: TRM - Trump Resistance Movement
+Sub-label: Mitch McConnell
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02T3eHYppEbFgWemdTi1XUQ6uDfeABXS99dr5e6uec2UVMgtEbZ2LsY4cGrmoV67Uzl
+Snippet: Label: TRM - Trump Resistance Movement Sub-label: Mitch McConnell Words by J. Stone Laraway II, revised/retouched by MetaAI  How Lincoln Republicans align with this: Lincoln Republicans prioritize con
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-02T14:05:30Z | Platform: FACEBOOK | Label: Principle Over Stunts
+Sub-label: How Lincoln Republican related to political theater vs. political truth
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0y3UGUkPyszL3ZYBKdudtfUvaGNp8X899H7NCbd35Qcmqk6HaWvJSVB4spZHyGznrl
+Snippet: ISO date/time: 2026-07-02T14:05:30Z  Label: Principle Over Stunts  Sub-label: How Lincoln Republican related to political theater vs. political truth  Words by J. Stone Laraway II, revised/edited by M
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-04 05:44:03 | Platform: FACEBOOK | Label: "All Patriots. People Over Party."
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02CZpPnJuMRvuxXw7UGACmRwvoAZSBxf1agttkr5r3TZpG34CXJtLhiGfF4yLSzBm4l
+Snippet: 2026-07-04 | Independence Day Reflection Sub Label: "All Patriots. People Over Party."  Me: Remembering and observing Independence Day, July 4th.  Both the left and right have common adversaries—some 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-04 05:46:31 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02TBizSb2TT8eW4vP73GQopxv71Snz4f2b1SQNbJoavKgRybQe79AWb7tp5Jp9cezul
+Snippet: TL;DR | 2026-07-04  The point: Independence Day isn’t left vs right. Both sides have adversaries — corruption, tyranny, overreach. Lincoln’s Republican Party was about unity + freedom. Time to take it
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-04 06:17:18 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02vzKcNR5hbUcGcTXMfnxJevV4s8wqSZi3MgJX5Lg2VCwswKD4c1oWcf1YFrwHbJz6l
+Snippet: THE 4TH OF JULY IS NOT ABOUT YOU  Caps added for emphasis, Mr. President.  Me:  Independence Day is not a campaign backdrop. It’s not a rally. It’s not a stage for picking enemies.  Both the left and 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-04 16:55:39 | Platform: FACEBOOK | Label: Patriot Front DC March | Semiquincentennial 250
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid06xvFQbTzxgx5Aov6x8MVzTqKAWszFAt2aRAmPURncxWgJ85E3ZdQ8qdMyYX96JTal
+Snippet: 2026-07-04 — Saturday, July 4, 2026  label: Patriot Front DC March | Semiquincentennial 250 sub label: Train Photo + Media Coverage vs Social Thread  how it relates to Lincoln Republican: Lincoln’s Re
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-04 17:03:14 | Platform: FACEBOOK | Label: Lincoln Republican | Separation of Church & State
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02nj7Cd7JdusBdVdxmmNGS6SzX7yT7QnYit5BDCWVFpveT4uVuN9j3Ci3TJ9qyfb6kl
+Snippet: 2026-07-04 — Saturday, July 4, 2026  label: Lincoln Republican | Separation of Church & State  sub label: Honesty, Integrity, Accountability vs Binary Extremes  how it relates to Lincoln Republican:  
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-04 17:12:53 | Platform: FACEBOOK | Label: Communism Claim | WCIV/ABC News 4 Post
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0T9DN79ZoXmKwezu1Y1hQobdzwzQuLXx3NPkR7zGYSWV4nRK22fhPuEjpgQvQNyTdl
+Snippet: 2026-07-04 — Saturday, July 4, 2026  label: Communism Claim | WCIV/ABC News 4 Post sub label: "Mortal Threat" vs Evidence-Based Assessment  Words by J. Stone Laraway II, revised by MetaAI  how it rela
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-05 05:28:24 | Platform: FACEBOOK | Label: Freedom 250 | National Mall | Logistics Fail, Not Weather
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid052KgJQhFyRMqN4bKpVrRCFhg79Xafu1uJEpoY5DwHLHt6RzyEB7qsEW1Kk9MaJCDl
+Snippet: TL;DR — 2026-07-05  label: Freedom 250 | National Mall | Logistics Fail, Not Weather  sub label: Plan Better. Respect People.   Thunderstorms evacuated the Mall. Re-screening + unclear checkpoints = 1
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-05 18:49:37 | Platform: FACEBOOK | Label: Michael Wright
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02gBVYZQCw4GreZHKDE5dUXDzpiBoH1RhGBL6g9tmVeAX8fzMrdcwcZET3UM2jafUbl
+Snippet: 2026-07-05 — Saturday, July 5, 2026  label: Michael Wright  sub label: tit for tat. You may be correct, however this is click bait  Words by J. Stone Laraway II, revised by MetaAI   Me:  The post stat
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-05 18:56:54 | Platform: FACEBOOK | Label: House Speaker Mike Johnson
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid024ufFv4PwkTzdANzuVCMNVwkJXJ7AckKaxN47ULZLyEepWX4n1gsTfqrZm7MtbvS2l
+Snippet: 2026-07-05 — Saturday, July 5, 2026  label: House Speaker Mike Johnson  sub label: Common sense  Words by J. Stone Laraway II, revised by MetaAI   Me:  The post states: “This election year is no longe
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-05 20:07:15 | Platform: FACEBOOK | Label: Vic M Agui
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid032gTrb5eQ4NzKcK4Hq2YxZxnL2XBHhxdwgTP3Trsb9L4s6h1Wr3qkHNnRg8bkTd4kl
+Snippet: 2026-07-05 — Saturday, July 5, 2026  label: Vic M Agui  sub label: Us vs. them, and name-calling as strategy  Words by J. Stone Laraway II, revised by MetaAI   Me:  The post states: “Since Trump is no
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-05 20:09:28 | Platform: FACEBOOK | Label: MEAWW
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0w5Ei4kwioa5wZCiBW4TBZ1AYuUTkqCG8ARJwLKP4CLU6YERAkqRFWQXJkYNJfumWl
+Snippet: 2026-07-05 — Saturday, July 5, 2026  label: MEAWW  sub label: Patriotism vs. communism, false binary  Words by J. Stone Laraway II, revised by MetaAI   Me:  The post states: “President Donald Trump dr
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-05 20:44:56 | Platform: FACEBOOK | Label: Denise Reyes Nieves Post
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0qpefRWzHacXjiPrSn8PrQjNkxFQCWntJQ3HzwFGWpkcpiKTuAdTPsZT5f2x5oNWol
+Snippet: 2026-07-05 — Saturday, July 5, 2026  label: Denise Reyes Nieves Post  sub label: Office vs. preference  Words by J. Stone Laraway II, revised by MetaAI   Me:  The image reads: “He isn’t my President.”
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-05 21:53:38 | Platform: FACEBOOK | Label: Lincoln Republican Standards for Political Rhetoric
+Sub-label: Reframing Critique Without Expletives
+URL: https://www.facebook.com/stone.laraway/posts/pfbid022u2M5cLeFVfG8f6jRcihHUn1aoEPzrqqvFjkV3hFUpbG93KwbdSjQ4AcN6d7f5Xcl
+Snippet: Label: Lincoln Republican Standards for Political Rhetoric   Sub-label: Reframing Critique Without Expletives    Words by J. Stone Laraway II   Not the language I would use. I understand the message. 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-05 22:38:00 | Platform: FACEBOOK | Label: Lincoln Republican Standards for Political Rhetoric
+Sub-label: Patriots, Parties, and Precision in Language
+URL: https://www.facebook.com/stone.laraway/posts/pfbid06R911cqaomPxRP73HPLWzRudn8tfLoVUFx2wR9tcFAwvyyB2v6D5j6p8zoxMzA9yl
+Snippet: ISO Date Long: 2026-05-04    Label: Lincoln Republican Standards for Political Rhetoric   Sub-label: Patriots, Parties, and Precision in Language    Words by J. Stone Laraway II, Revision by Meta AI  
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-05 22:48:39 | Platform: FACEBOOK | Label: Lincoln Republican Standards for Political Rhetoric
+Sub-label: Expression, Standards, and Civic Process
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0QSVonKXDKTnA5WQYYL2WL9UzFvjZX2qxjfUp3SnREQynf48fXj5nhoeoN6hPRod7l
+Snippet: ISO Date Long: 2026-05-04    Label: Lincoln Republican Standards for Political Rhetoric   Sub-label: Expression, Standards, and Civic Process    Words by J. Stone Laraway II, Revision by Meta AI   The
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-06 18:09:49 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02RL9pNxcT1Pvn42EFwRxUEKvnhyBFJ49x6QzhcNQiGeaTf8PvCRh5VcQ3mkmHpQx7l
+Snippet: 2026-07-06 - Public Comment Draft - Historical Programs and Rhetoric - Words by J. Stone Laraway II, revision by MetaAI - Quote: "Democratic socialism has existed for more than 100 years. Programs oft
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-06T06:15:00Z | Platform: FACEBOOK | Label: Lincoln Republican Standards for Political Rhetoric
+Sub-label: Message Without Mockery
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02Ar7Fr3C1zH517TzF8GTcvfm8sHStp77oybuNSJYpYrZsz7jCFoaHkKisB7xYR4Cnl
+Snippet: ISO Date Long: 2026-07-06   ISO 8601 Date and Time in UTC: 2026-07-06T06:15:00Z    Label: Lincoln Republican Standards for Political Rhetoric   Sub-label: Message Without Mockery    Words by J. Stone 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-06T06:15:00Z | Platform: FACEBOOK | Label: Lincoln Republican Standards for Political Rhetoric
+Sub-label: The Mirror, Responsibility, and “Ask Not”
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0rHxD8BfwgBRETMGokLz1tJek8wwiukbji5aZ7q7pcoEP4PChnCkrkNgiRiDKWyz2l
+Snippet: ISO Date Long: 2026-07-06   ISO 8601 Date and Time in UTC: 2026-07-06T06:15:00Z    Label: Lincoln Republican Standards for Political Rhetoric   Sub-label: The Mirror, Responsibility, and “Ask Not”    
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-06T06:15:00Z | Platform: FACEBOOK | Label: Lincoln Republican Standards for Political Rhetoric
+Sub-label: Civility, Constructive Debate, and Accountability
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02VMCzigrbzL6o7YCs8NzVhXkuxhDfE5uFmcYkR4gAH6mANRhjtFPqajG79QJyeV4ml
+Snippet: ISO Date Long: 2026-07-06 ISO 8601 Date and Time in UTC: 2026-07-06T06:15:00Z  Label: Lincoln Republican Standards for Political Rhetoric Sub-label: Civility, Constructive Debate, and Accountability  
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-06T11:45:00-04:00 | Platform: FACEBOOK | Label: Nancy Mace
+Sub-label: Terminology and Conduct on the Record
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0FS9PpxdAvkTDQ1enZmAbxqpiX2X5Lp1Aeni1X6QEJ1DoNNti9nekV3CuDkAbeKQnl
+Snippet: ISO Date Long: 2026-07-06T11:45:00-04:00 Label: Nancy Mace Sub-label: Terminology and Conduct on the Record  Words by J. Stone Laraway II, Revision by Meta AI  Quote Congresswoman Nancy Mace: “The Lef
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-07T06:14:00Z | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02tR2ke8igg31ukf91sv9iSLA628WyVHFvrJ6CEmThLt7s48d7eD3qf4RTivjdfHzAl
+Snippet: 2026-07-07T06:14:00Z - Public Comment - Revised - Agency Actions / Oversight Claims - Words by J. Stone Laraway II, revision by MetaAI   Screenshot Context: Brilliant Eagle, 6h. Johnson accused Democr
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-07T06:14:00Z | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid029H2Yb1jyjGrwcebiXAGMyiaokYymWzfmf2Xk3HBxMQ9zWYvdpwGoy4fi2kVMJksbl
+Snippet: 2026-07-07T06:14:00Z - Public Comment - ICE / Immigration Policy / Civic Scrutiny - Words by J. Stone Laraway II, revision by MetaAI   Screenshot Context: Abdul El-Sayed, verified, 14h. Text: “ICE is 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-07T06:14:00Z | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0LLRJhjqdK6eFYKbhKWNBb2WKNkbwRx6AxY8jiveddx2TVUyWVUfeWGvs25EP4o6bl
+Snippet: 2026-07-07T06:14:00Z - Public Comment - Immigration / Housing / Civic Scrutiny - Words by J. Stone Laraway II, revision by MetaAI   P.S. Spelling errors in the header: "corssings" → "crossings", "alea
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-07T06:14:00Z | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid053xh3T1su8HW3oPSZtbzvgLeRKQ8ejoyrNkwfRBTzBwww82rYvMNsrVAiWgT6aeDl
+Snippet: 2026-07-07T06:14:00Z - New Thread - Public Record Note - Social Security / Voting / Civic Accountability - Words by J. Stone Laraway II, revision by MetaAI   Screenshot Context: Un-maga America post, 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-07T06:14:00Z | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid029NAFaYDPMspF1X1gARdqCrhu4ZB1qg9acGvBkCDGBpTm1dJ8Bs2wGeMz4gYm3sVrl
+Snippet: 2026-07-07T06:14:00Z - New Thread - Public Record Note - Political Cynicism / Dehumanizing Rhetoric / Civic Accountability - Words by J. Stone Laraway II, revision by MetaAI   Screenshot Context: Mich
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-07T06:14:00Z | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0FkpYHcgdgS2Yvtcs4aQLKVFwZvAZbBGtSZLg2btW7KYPp8Wvi8P2fjwHccgsoXGel
+Snippet: 2026-07-07T06:14:00Z - New Thread - Public Record Note - Political Labels / Historical Reference / Civic Accountability - Words by J. Stone Laraway II, revision by MetaAI   Screenshot Context: Un-maga
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-07T06:14:00Z | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02hXUBKLj7keXV8FTuy8os1Ch7iwJ6CU8cgC2mJKBWgJPrTKAB1xUwa55vq9bw42S9l
+Snippet: 2026-07-07T06:14:00Z - New Thread - Public Record Note - Conflicts of Interest / Public Service / Ethics - Words by J. Stone Laraway II, revision by MetaAI   Screenshot Context: Facebook post shared b
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-07T06:14:00Z | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0H78BCAU9AGcNNGXoJpLsZ2KR71a2yz1aRnyo4MSZLGzH5zPbGt7o94LDdSqxsoZEl
+Snippet: 2026-07-07T06:14:00Z - New Thread - Public Record Note - Sport / Governance / Independence of Sport - Words by J. Stone Laraway II, revision by MetaAI   Screenshot Context: “Republicans” page, 11h ago
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-30 14:40:50 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0vLRga5Sy3dbV3ZJe6RXg1Wes62RGrkTuV4LfmKHLXVvuPYvrSZwG7rzPkBQDFcSNl
+Snippet: Colonel West is right.  Principles outlast personalities. Cults of personality are fast. The Constitution is endurance.  I’m a Lincoln Republican. Senior Data Analyst. I run every claim through three 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-30 14:54:27 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0YTd79UwMFFPYhgnxicaaKPHnp9R7rX3x1xrkcgmqwwJvkAjheESYegwh9VGki8e5l
+Snippet: 2026-07-30 17:51   Civics   Calling the Mill: Part 6/6 — What Can You Do?  Words by J. Stone Laraway II  Quote: “Don’t fall for the label trick.”  What happened:   When you see “social democracy = com
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-30T14:22:00-04:00 | Platform: FACEBOOK | Label: Public Commentary
+Sub-label: Platform Moderation & Free Speech
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0bQKSUFb6HdhAXBPe75v1YueXNkm8YEXkvBFvGagj4kvy9qiyP63e79YCL2SiBEvql
+Snippet: 2026-07-30T14:22:00-04:00   Label: Public Commentary   Sub-label: Platform Moderation & Free Speech    Words by J. Stone Laraway II, revision by MetaAI    Quote:   > "The desert mouse survives with al
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-30T19:56:00-04:00 | Platform: FACEBOOK | Label: Intergalactic Dispatch
+Sub-label: High Energy
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02dpKokrG12ZbsZnvjYGicvH3AbW2VRnb6LWzsUDSSWdsRKGZcbwVMVBvfYFhvAEA6l
+Snippet: 2026-07-30T19:56:00-04:00  Label: Intergalactic Dispatch  Sub-label: High Energy  Words by: J. Stone Laraway II, revision by MetaAI   Quote: “Love. Love. Love. Live. Live. Live. Laugh. Laugh. Laugh. D
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-30T20:05:00-04:00 | Platform: FACEBOOK | Label: Intergalactic Dispatch
+Sub-label: Party Lines vs. Timelines
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0jXEUZPePFtB3uRHcCTP4zW7ssEnMPt5NnwBRtUsJWyjiWm9Atq3DDLTmxS1JP31Dl
+Snippet: 2026-07-30T20:05:00-04:00  Label: Intergalactic Dispatch  Sub-label: Party Lines vs. Timelines  Words by: J. Stone Laraway II, revision by MetaAI   Quote: “WHO STARTED THE KKK? THAT WAS THE DEMOCRATS.
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-30T20:05:00-04:00 | Platform: FACEBOOK | Label: Intergalactic Dispatch
+Sub-label: Party Lines vs. Timelines
+URL: https://www.facebook.com/stone.laraway/posts/pfbid021wmDwpoafBbFQfUVjBeLc36nk3fT5a4QVvwFGtkACsmLRNiH1gBoJ4bX6YCY4KNSl
+Snippet: 2026-07-30T20:05:00-04:00  Label: Intergalactic Dispatch  Sub-label: Party Lines vs. Timelines  Words by: J. Stone Laraway II, revision by MetaAI   Quote: “WHO STARTED THE KKK? THAT WAS THE DEMOCRATS.
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-30T20:05:00-04:00 | Platform: FACEBOOK | Label: Intergalactic Dispatch
+Sub-label: Red Placard, Zero Data
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0ZWzwicjnq7brZxShfjQZurx9iLiKfPsPWjB66mw4GbsSiJoo7kvjT13LhSk3C1qnl
+Snippet: 2026-07-30T20:05:00-04:00  Label: Intergalactic Dispatch  Sub-label: Red Placard, Zero Data  Words by: J. Stone Laraway II, revision by MetaAI   Quote: “oh nothing, just thankful Kamala isn't our Pres
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-30T23:12:00-04:00 | Platform: FACEBOOK | Label: Intergalactic Dispatch
+Sub-label: Force // Free Speech // Truth
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0TxHQ6VrffBLGwgjKx73K8PTpcYKBQDJpQaAzptMckTftS8Ue8gUaU1tAUWfwgeDql
+Snippet: 2026-07-30T23:12:00-04:00   Label: Intergalactic Dispatch   Sub-label: Force // Free Speech // Truth    Words by Cassian Andor, revision by MetaAI    Quote:   > "Rebellions are built on hope."   > — J
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-30T23:55:00-04:00 | Platform: FACEBOOK | Label: Intergalactic Dispatch
+Sub-label: Truth // Free Speech // Double Standards
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0ysrHdJ73JhegqahkJD9kVtYj9pNdHC7iE3n38noVhbPcyniPKCrgWt9gNSZzkqMkl
+Snippet: 2026-07-30T23:55:00-04:00   Label: Intergalactic Dispatch   Sub-label: Truth // Free Speech // Double Standards    Words by Cassian Andor, revision by MetaAI    Quote:   > "The choice is no longer bet
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-31T00:18:00-04:00 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02Q9tx8HuJmzfCfCaJF2Qg3xkDmdu7b9pLHpNgTx1ohHLax2ftX91GyARJXeB4e3mul
+Snippet: 2026-07-31T00:18:00-04:00 - Party Politics - Collective Guilt - Words by J. Stone Laraway II, revision by MetaAI  “ARI FLEISCHER: ‘Too many in the modern Democratic Party hate America… she expresses o
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-31T00:41:00-04:00 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02cENSsSQsBPF8UQC9gdkbmBfysW2N7RHBQW6LHcYF2NZFqFRikHhMLguj9jjBrtyrl
+Snippet: 2026-07-31T00:41:00-04:00 - Civic Engagement - Public Apathy - Words by J. Stone Laraway II, revision by MetaAI  “Why are most American people still sleeping behind the wheel?”  The forest was asked t
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-31T01:05:00-04:00 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0J6TbjL4iiXzW7BAGKUmE82XM2pvpNy39ERbJMshKHxVUdwTbJ9Kz66S52isQv9FVl
+Snippet: 2026-07-31T01:05:00-04:00 - Civic Identity - Lincoln Republican - Words by J. Stone Laraway II, revision by MetaAI  “I chose the purple pill. Not the red pill. Not the blue pill. The purple pill.”  I 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-31T07:59:00-04:00 | Platform: FACEBOOK | Label: Intergalactic Dispatch
+Sub-label: Truth // Conflation // Bandwagon
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02VdNRwSv9YhzQfmvRJXA2NdXMTBWJD1L49FZtuoqLmadBYmKm8h8geD45NTnE9Canl
+Snippet: 2026-07-31T07:59:00-04:00   Label: Intergalactic Dispatch   Sub-label: Truth // Conflation // Bandwagon    Words by Cassian Andor, revision by MetaAI    Quote:   > "Dependence is the point. 'Socialism
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-31T10:21:00-04:00 | Platform: FACEBOOK | Label: Intergalactic Dispatch
+Sub-label: Truth // Propaganda // Six-Alarm
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0377SCKxY6Wi3wwJYkPgCSjJWdypoAoMe2pu6kiD58NVuMSXm5XMH6h1zyd6YVcwjkl
+Snippet: 2026-07-31T10:21:00-04:00   Label: Intergalactic Dispatch   Sub-label: Truth // Propaganda // Six-Alarm    Words by James Gordon, revision by MetaAI    Quote:   > "I’m a Lincoln Republican and what Ho
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-07-31T23:08:00-04:00 | Platform: FACEBOOK | Label: Intergalactic Dispatch
+Sub-label: The Return of the King, or Two Towers with One Eye
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0hsTNQR6wEfxwhiKFYgCvtEmSE24jgrUCmkQgGcdM5PtTD1jrLWc5VP9tEn2aRJaXl
+Snippet: 2026-07-31T23:08:00-04:00  Label: Intergalactic Dispatch  Sub-label: The Return of the King, or Two Towers with One Eye  Words by: J. Stone Laraway II, revision by MetaAI   Quote: “Notice the collecti
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-08-01T08:20:00-04:00 | Platform: FACEBOOK | Label: Language, Blame, Union
+Sub-label: Stop Lumping All Republicans Together
+URL: https://www.facebook.com/stone.laraway/posts/pfbid031ou8MFCkDx9r1k8jXULgeQXB1nUwaznaQHPU52UJ9zLQAHqNVmi1dmJJePiqx2oRl
+Snippet: 2026-08-01T08:20:00-04:00  Label: Language, Blame, Union  Sub-label: Stop Lumping All Republicans Together  Words by J. Stone Laraway II, revision by MetaAI  Quote:  Name the thing. Name the person. N
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-08-01T10:05:00-04:00 | Platform: FACEBOOK | Label: Speech, Logic, Framing
+Sub-label: Reply to Rep. Nancy Mace — Wrong Question
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0tDZiv5NWdU8WHqEFCmkmQN3DhXvtEJfrNwEPXovH8GHrDhR3p5oD2GJB2t8TUYLkl
+Snippet: 2026-08-01T10:05:00-04:00  Label: Speech, Logic, Framing  Sub-label: Reply to Rep. Nancy Mace — Wrong Question  Words by J. Stone Laraway II, revision by MetaAI  Quote:  A question that starts with a 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-08-01T22:31:00-04:00 | Platform: FACEBOOK | Label: Speech, Law, Citizenship
+Sub-label: McGill Media — Rep. Nancy Mace — Bill to Bar Foreign-Born from Office
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02eCPK5niUZDvmQ1JWdGi88ac8HNxkroBPjUHVoq3Aafr1WYv8gdHDJXaMXcZvuFK6l
+Snippet: 2026-08-01T22:31:00-04:00  Label: Speech, Law, Citizenship  Sub-label: McGill Media — Rep. Nancy Mace — Bill to Bar Foreign-Born from Office  Words by J. Stone Laraway II, revision by MetaAI  Quote:  
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-08-02T01:45:00-04:00 | Platform: FACEBOOK | Label: Memory, Politics, Path
+Sub-label: Aug 2, 2024 Post — “The Fork in the Road” TRUST
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0epkgTjagyd1arrz43U6Qoy6gusTt6Bm7R55CJ4xK7DRFqLcDgKQx2e9MyCfA5w3Zl
+Snippet: Logged. New thread. Exhibit A. Facebook Memory surfaced on time.  ---  2026-08-02T01:45:00-04:00  Label: Memory, Politics, Path  Sub-label: Aug 2, 2024 Post — “The Fork in the Road” TRUST  Words by J.
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-08-03T11:35:00-04:00 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02CsqWWWo4mdedx8FvbE3MSUET7rLJC5D3KT3iYJMiWFeNgE6UcC2UTWuLACF9TMTVl
+Snippet: 2026-08-03T11:35:00-04:00   Political Square, Meta Platforms   Do the Work, Not Just the Post   Words by J. Stone Laraway II, revision by MetaAI   > "Nancy, that’s not how laws get made. If you want t
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-08-03T16:54:00-04:00 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0idMiHtWLSbMv6ZjeemwYPtG79b5AqQGCmzH7nhmhFAvcYdVXSK3esYdE6WrZ8qudl
+Snippet: 2026-08-03T16:54:00-04:00   Constitution Hall, Your City   One Nation, Indivisible   Words by J. Stone Laraway II, revision by MetaAI    > "Nancy, the Pledge of Allegiance used to say ‘one nation indi
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-08-03T18:20:00-04:00 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0YksudWBjvkzg9W1Fz9dm2CFtiMiAVagLBcqJ9BG4aRtows764m5UK23ehWT8qVZbl
+Snippet: 2026-08-03T18:20:00-04:00   Public Square, Your City   Make No Mistake   Words by J. Stone Laraway II, revision by MetaAI    > "Make no mistake. That is what every politician says, right or left. This
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-08-04 02:44:11 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid021Gzb3ssb63xJo27vroyAXcuDS9Y11EUrFdyLhH7eEvPtv2bHib3nhDr71Mh5ZxKXl
+Snippet: Hypothesis: Facebook’s “spam” filter is content-based, not format-based.    Test 1-14: Structured posts with sources = blocked.    Test 15: Plain opinion with no sources = blocked.    Control: Pro-Pal
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-08-04T09:15:00-04:00 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0VeuCCk2FpK9w7Y5XBV14vkx7B9yNwezZLLCPYbMr5rWwU6NX9GzV18cgQ4egQ3bnl
+Snippet: 2026-08-04T09:15:00-04:00   Public Square, Your City   Dates, Not Labels   Words by J. Stone Laraway II   > "Parties changed. Dates didn’t. Check the record."    Definition: Party Switch — The period 
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-08-04T22:20:00-04:00 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0eW5WZqt8P9zDvdcKgsVWh35Ukntb4gnTWuQbXjZa8sFWqw2qGXgWPC3QjsCh4uN5l
+Snippet: Logged. Post_ID 23. Reply to Nashville Tea Party. Testing: cited historical context vs AI meme.  ---  2026-08-04T22:20:00-04:00   Public Square, Facebook Reply Thread   Romneycare Existed First   Word
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-08-04T22:45:00-04:00 | Platform: FACEBOOK | Label: 
+Sub-label: 
+URL: https://www.facebook.com/stone.laraway/posts/pfbid024aSR79vWWzGAuT5mUFvNHG5cT7fro2FgpszeDNRXSj8mp8ADh8pAmV8GNi6gyN1El
+Snippet: Logged. Post_ID 30. Reply to Rep. Nancy Mace. 2026-08-04T22:45:00-04:00   Public Square, Facebook Reply Thread   Actions > Words   Words by J. Stone Laraway II   > "But allegedly you did, Nancy. Actio
+--------------------------------------------------------------------------------
+Post_ID: 70 | 2026-08-05T05:54:00-04:00 | Platform: Facebook | Label: Celebrity Speech
+Sub-label: Expertise vs. Opinion Test
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0AAuNKjnByVzLwoP4SLgV73we1h1nLHqTb9Xs6WKHCnnrKsUTmH7B4RJikXpGJoYWl
+Snippet: Logged. Post_ID 70. Using your specified format.  ---  2026-08-05T05:54:00-04:00   Post_ID: 70   Platform: Facebook   Label: Celebrity Speech   Sub-label: Expertise vs. Opinion Test   Words by J. Ston
+--------------------------------------------------------------------------------
+Post_ID: 74 | 2026-08-05T06:01:00-04:00 | Platform: LinkedIn via Facebook Screenshot | Label: Civic Engagement
+Sub-label: Systems Reform Test
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0291r6NqqJgejpxsoEj6gMY6zAQmawCTo54QnXhmUBK1T9FWhVxUJRA49GN7rvEvTvl
+Snippet: Logged. Post_ID 74. Using my specified format.  ---  2026-08-05T06:01:00-04:00   Post_ID: 74   Platform: LinkedIn via Facebook Screenshot   Label: Civic Engagement   Sub-label: Systems Reform Test   W
+--------------------------------------------------------------------------------
+Post_ID: 87 | 2026-08-05T09:45:00-04:00 | Platform: Facebook | Label: Political Speech
+Sub-label: Comment on 2028 Candidate Post
+URL: https://www.facebook.com/stone.laraway/posts/pfbid035EE1XHoU9GfvGsSHm7Rmxq93225gwBB24nJN3qLR6mrrWpS9pbDv6wKbk3HwsK94l
+Snippet: Logged. Post_ID 87. Using your specified format with your words revised for clarity.  ---  2026-08-05T09:45:00-04:00   Post_ID: 87   Platform: Facebook   Label: Political Speech   Sub-label: Comment o
+--------------------------------------------------------------------------------
+Post_ID: 89 | 2026-08-05T09:55:00-04:00 | Platform: Facebook | Label: Political Speech
+Sub-label: Question Framing + Reply Analysis
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02YeDTovFKsDo4hS46Xj6Fcubi2WcFB1ixAvS6DLhRMXxgiF9DS1PEH9dnA96bvYkZl
+Snippet: Logged. Post_ID 89. Using your specified format with your words included.  ---  2026-08-05T09:55:00-04:00   Post_ID: 89   Platform: Facebook   Label: Political Speech   Sub-label: Question Framing + R
+--------------------------------------------------------------------------------
+Post_ID: 95 | 2026-08-05T10:20:00-04:00 | Platform: Facebook | Label: Platform Behavior
+Sub-label: Comment Survival Test Update
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0vTdjqTG6KJDiR6MYkerCVdoGSBuxkCY1VBViPoHNH4pKKBE18vYsu4VdJDWtBhbBl
+Snippet: Logged. Post_ID 95. Status update on comment visibility.  ---  2026-08-05T10:20:00-04:00   Post_ID: 95   Platform: Facebook   Label: Platform Behavior   Sub-label: Comment Survival Test Update   Words
+--------------------------------------------------------------------------------
+Post_ID: 98 | 2026-08-05T10:34:00-04:00 | Platform: Facebook | Label: Political Speech + Standards
+Sub-label: Conditional Support + Lincoln Principle + Representation + Campaign Finance
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0pQXMZ7RmSyCoge2MMfz1jNFfuGTdAurzLg5a5kDFCqYEYm3tjrauxhKT2ikHBerhl
+Snippet: Updated. Post_ID 98 revised with your additional lines. Using your specified format.  ---  2026-08-05T10:34:00-04:00   Post_ID: 98   Platform: Facebook   Label: Political Speech + Standards   Sub-labe
+--------------------------------------------------------------------------------
+Post_ID: 100 | 2026-08-05T11:17:00-04:00 | Platform: Facebook | Label: Political Speech + Media
+Sub-label: Conduct Standard + Framing Analysis
+URL: https://www.facebook.com/stone.laraway/posts/pfbid03ofTdHP5KN1VwXGsCZkNuCffwBfe5zmhj1xMoVxX5rLQAhvbi6ah9poKNMK6NHbRl
+Snippet: 2026-08-05T11:17:00-04:00   Post_ID: 100   Platform: Facebook   Label: Political Speech + Media   Sub-label: Conduct Standard + Framing Analysis   Words by J. Stone Laraway II, revision by MetaAI   > 
+--------------------------------------------------------------------------------
+Post_ID: 110 | 2026-08-05T13:08:00-04:00 | Platform: Facebook | Label: Political Quote + Economic Systems
+Sub-label: Reagan on Socialism + Victims of Communism Memorial Foundation
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02BRkBkTebvhoMR7mNWMEBLEZjRJJpxA13s2yRfSUj8wAmDe71QRNQWbzZXPdRgSCvl
+Snippet: Logged. Post_ID 110. Reagan quote on socialism from "Victims of Communism" page, using your specified format.  ---  2026-08-05T13:08:00-04:00   Post_ID: 110   Platform: Facebook   Label: Political Quo
+--------------------------------------------------------------------------------
+Post_ID: 113 | 2026-08-05T13:35:00-04:00 | Platform: Facebook | Label: Political Speech + Accusation
+Sub-label: Congresswoman Nancy Mace Post + Loaded Question + Ignored Recommendations
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0hgryhzXu2XWeRk9Nrr4HnDAptNekvFFf7W1r8VMq1P6TbDuE6ouyrJNnJ8zPtbeZl
+Snippet: Logged. Post_ID 113. Nancy Mace post "Can we stop electing terrorists into office in America?", using your specified format.  ---  2026-08-05T13:35:00-04:00   Post_ID: 113   Platform: Facebook   Label
+--------------------------------------------------------------------------------
+Post_ID: 116-R2 | 2026-08-05T14:15:00-04:00 | Platform: Facebook | Label: Comment Thread + Deflection + Party Identity
+Sub-label: Robert Martinez Reply + "Quote Game" + Trump Reference + Lincoln Republican Response
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02BCe7FNikMrGK8hYahtELyuXGWhqsVbk9Lh81GS27ZDb8z3W8Re4RpQTV2TEqL3ccl
+Snippet: Robert Martinez  2026-08-05T14:15:00-04:00  Post_ID: 116-R2  Platform: Facebook  Label: Comment Thread + Deflection + Party Identity  Sub-label: Robert Martinez Reply + "Quote Game" + Trump Reference 
+--------------------------------------------------------------------------------
+Post_ID: 118 | 2026-08-05T14:35:00-04:00 | Platform: Facebook | Label: Political Speech + Election Reaction
+Sub-label: Stuard M. Derrick Post + Michigan Primary Result + "Squaddily" Comment
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02A2iF9KGvuzFTHX639m89yzRDfrdPbTgsA4PfRnmKAhirqrzgpivr4TSfm5pzw5jtl
+Snippet: 2026-08-05T14:35:00-04:00  Post_ID: 118  Platform: Facebook  Label: Political Speech + Election Reaction  Sub-label: Stuard M. Derrick Post + Michigan Primary Result + "Squaddily" Comment  Words by J.
+--------------------------------------------------------------------------------
+Post_ID: 124-R2 | 2026-08-05T15:35:00-04:00 | Platform: Facebook | Label: Political Speech + U.S. and Israel
+Sub-label: Peter Logue Share + Jon Stewart Interview + John Fetterman Quote + Your Response
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0nCy11AFuGsP4tZoQ3dv8N4HvH2pyLp9zEm7ALao6YV8U1fiHbLRM3XNgWxHxkb1Ll
+Snippet: Revised. Post_ID 124-R2. Cleaned up spelling, grammar, and punctuation. Smoothed the flow. Kept all definitions and Lincoln ties.  ---  2026-08-05T15:35:00-04:00  Post_ID: 124-R2  Platform: Facebook  
+--------------------------------------------------------------------------------
+Post_ID: 127-R4 | 2026-08-06T08:18:00-04:00 | Platform: Threads via C-SPAN | Label: Congressional Hearing + Linking People to Groups
+Sub-label: Sen. Ted Cruz + Abdul El-Sayed + Muslim Brotherhood + CAIR + Your Response
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02D6ccJE6hPdajzeCo5RFtfhxv3G8n1odugXsq33DxKTb1nNfJVxppQaVCbCUTLby2l
+Snippet: Updated. Post_ID 127-R4. Added your new "Me:" line, kept the tone fair, fixed grammar and flow, and kept it clear for an 8th grade level.  ---  2026-08-06T08:18:00-04:00  Post_ID: 127-R4  Platform: Th
+--------------------------------------------------------------------------------
+Post_ID: 127-R5 | 2026-08-06T08:25:00-04:00 | Platform: Threads via C-SPAN | Label: Congressional Hearing + Linking People to Groups
+Sub-label: Sen. Ted Cruz + Abdul El-Sayed + Muslim Brotherhood + CAIR + Your Response
+URL: https://www.facebook.com/stone.laraway/posts/pfbid0HAcr1Qyq2jvvLGFuEnfHL82TGV5hLufAyDJEFpn4QrHmkCyT4V9acqqWLHLE4CQRl
+Snippet: Updated. Post_ID 127-R5. Added your new "Me:" paragraph, kept the tone fair, fixed grammar and flow, and kept it clear for an 8th grade level.  ---  2026-08-06T08:25:00-04:00  Post_ID: 127-R5  Platfor
+--------------------------------------------------------------------------------
+Post_ID:  | 2026-09-04T14:51:00-04:00 | Platform: FACEBOOK | Label: Facebook
+Sub-label: Rate limits vs. public figures
+URL: https://www.facebook.com/stone.laraway/posts/pfbid02Y9AZz1VGvFgQwY7h3N9Y8YpNWJubZVQZqkBjb3UpPnMAqS1zkiQjfrSRcbm8bTmGl
+Snippet: 2026-09-04T14:51:00-04:00   Words by J. Stone Laraway II, edited by Meta AI  Label: Facebook   Sub-label: Rate limits vs. public figures   Sub-label: Me (TL;DR): No. Spam limits hit regular users firs
+--------------------------------------------------------------------------------
