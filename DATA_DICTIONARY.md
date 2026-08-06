@@ -69,5 +69,5 @@ Current (2026-08-04): Total 50, Unique 28, Duplication 44%, Rate Limit Spike 12 
 | AI content, impersonation | Brandon Gill | Page run by Arra Posa AI content flag | 1 |
 | spam, rate limit, typing tax | System | 12x spike Aug 4 content-based filter hypothesis | 12 |
 
-Author: Stone Laraway — MBS Rutgers — ICAI Member Storinger Award 2002 — Mount Holly NJ 08060
+Author: Stone Laraway — MBS Rutgers (in progress) — ICAI Member Storinger Award 2002 — Mount Holly NJ 08060
 License: OSINT — SHA256 Preserved — UNCLASSIFIED // FOR PUBLIC RELEASE — No work-related content
