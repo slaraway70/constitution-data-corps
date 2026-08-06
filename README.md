@@ -88,6 +88,7 @@ Bar chart frequency No Funds 4 Nashville 5 Handmaid 2 Rate Limit 12 Celebrity Te
 Not sponsors. Reminders worn/used while documenting. Personal ethos only.
 - ICAI — Member Storinger Award 2002 — https://academicintegrity.org/ — 6 values
 - Profila — Data Sovereignty — Founder Michiel Van Roey Brussels — https://customers.profila.com/ — People owning their data not platforms
+- Pensey's Spices - Justice goes a long way (more than just salt on the table)
 - Palladium Boots — Dare The Unknown
 - Chuck Taylor Converse (Purple) — Purple Is My Color — Red + Blue = Purple worn daily
 - Darn Tough Socks — Be Tough — Made in USA Vermont merino wool guaranteed for life If you get a hole they replace free Daily reminder
