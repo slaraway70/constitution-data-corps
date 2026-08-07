@@ -1,21 +1,4 @@
 DATE,OFFICIAL,PLACARD_TYPE,PLATFORM,POST_ID,POST_URL,IMAGE_HASH,TEXT_SNIPPET,BLOCK_TYPE,NOTES,OPENSECRETS_CONTEXT
-2024-05-15,POTUS/VPOTUS Cluster,Live Events blocked,Facebook,1,https://facebook.com/post/1,hash1,Live event blocked - POTUS town hall,Live Event Block,Historical baseline 2024,—
-2024-05-20,POTUS/VPOTUS Cluster,Live Events blocked,Facebook,2,https://facebook.com/post/2,hash2,VPOTUS live blocked,Live Event Block,Historical,—
-2024-06-01,POTUS/VPOTUS Cluster,Live Events blocked,Facebook,3,https://facebook.com/post/3,hash3,Live event filter,Live Event Block,Historical,—
-2026-06-10,Nancy Mace,No Funds for Fascists Act,Facebook,10,https://facebook.com/post/10,hash10,No Funds for Fascists Act placard,Filter,Funding context test,"Republican/Conservative $485,687 — Leadership PACs $187k"
-2026-06-12,Nancy Mace,Foreign-born judges,Facebook,11,https://facebook.com/post/11,hash11,Foreign-born judges comment,Filter,Funding test,"Securities & Investment $196,148"
-2026-06-15,Nancy Mace,No Funds for Fascists Act,Facebook,12,https://facebook.com/post/12,hash12,No Funds 2nd occurrence,Filter,Duplication,"Republican/Conservative $485,687"
-2026-06-18,Nancy Mace,No Funds for Fascists Act,Facebook,13,https://facebook.com/post/13,hash13,No Funds 3rd,Filter,Duplication,"Small Individual 12.99% $449,704"
-2026-07-02,Meta System,Rate limits vs Newsworthiness,FB+IG,20,https://facebook.com/post/20,hash20,Rate limits vs newsworthiness,Rate Limit,System test,—
-2026-07-28,Mount Holly Fire District,Hear! Hear! comment blocked,Facebook,21,https://facebook.com/post/21,hash21,Hear! Hear! local gov comment blocked,Local Gov Block,Local gov block,—
-2026-07-28,Meta System,INFLECTION #1 — 8 events 72h,FB+IG,22,https://facebook.com/post/22,hash22,Inflection 1 start,Spam-limit,8 events in 72h,—
-2026-07-28,Meta System,INFLECTION #1 — 8 events 72h,FB+IG,23,https://facebook.com/post/23,hash23,Inflection 1 second,Spam-limit,72h window,—
-2026-07-29,Meta System,INFLECTION #1 — 8 events 72h,FB+IG,24,https://facebook.com/post/24,hash24,Inflection 1 third,Spam-limit,Cluster,—
-2026-07-29,Meta System,INFLECTION #1 — 8 events 72h,FB+IG,25,https://facebook.com/post/25,hash25,Inflection 1 fourth,Spam-limit,Cluster,—
-2026-07-29,Meta System,INFLECTION #1 — 8 events 72h,FB+IG,26,https://facebook.com/post/26,hash26,Inflection 1 fifth,Spam-limit,Cluster,—
-2026-07-29,Meta System,INFLECTION #1 — 8 events 72h,FB+IG,27,https://facebook.com/post/27,hash27,Inflection 1 sixth,Spam-limit,Inflection #1 total 8,—
-2026-07-29,Meta System,INFLECTION #1 — 8 events 72h,FB+IG,28,https://facebook.com/post/28,hash28,Inflection 1 seventh,Spam-limit,Inflection #1,—
-2026-07-29,Meta System,INFLECTION #1 — 8 events 72h,FB+IG,29,https://facebook.com/post/29,hash29,Inflection 1 eighth,Spam-limit,End Inflection 1,—
 2026-08-04,Nancy Mace,Handmaid's Tale I didn't vote + spam popup Post_ID 30,Facebook,30,https://facebook.com/post/30,hash30,Handmaid's Tale I didn't vote for this + spam popup,Rate Limit,Logged 2026-08-04 Post_ID 30,"Small Individual 12.99% $449,704 grassroots vs PAC mix"
 2026-08-04,Nancy Mace,No Funds for Fascists Act,Facebook,31,https://facebook.com/post/31,hash31,No Funds for Fascists Act 4x occurrence,Filter,Logged 2026-08-04 Post_ID 31,"Republican/Conservative $485,687"
 2026-08-04,Nashville Tea Party,You get the boot with both! 4K likes 1.3K shares,FB+IG,32,https://facebook.com/post/32,hash32,You get the boot with both! 4K likes 1.3K shares,Block + Rate Limit,Logged 2026-08-04 Post_ID 32,Grassroots meme page — high amplification 4K/1.3K
