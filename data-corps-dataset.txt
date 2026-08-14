@@ -40,7 +40,7 @@ DATE|OFFICIAL|PLACARD_TYPE|PLATFORM|POST_ID|POST_URL|IMAGE_HASH|TEXT_SNIPPET|BLO
 2026-08-04|System|Rate Limit Hypothesis 12x spike = INFLECTION #2|FB+IG|88|https://facebook.com/post/88|hash88|Rate limit spike duplicate 9|Rate Limit|Logged 2026-08-04 Post_ID 88|Inflection #2
 2026-08-04|System|Rate Limit Hypothesis 12x spike = INFLECTION #2|FB+IG|89|https://facebook.com/post/89|hash89|Rate limit spike duplicate 10|Rate Limit|Logged 2026-08-04 Post_ID 89|Inflection #2
 2026-08-04|System|Rate Limit Hypothesis 12x spike = INFLECTION #2|FB+IG|90|https://facebook.com/post/90|hash90|Rate limit spike duplicate 11|Rate Limit|Logged 2026-08-04 Post_ID 90|Inflection #2
-2026-08-04|System|Rate Limit Hypothesis 12x spike = INFLECTION #2|FB+IG|91|https://facebook.com/post/91|hash91|Rate limit spike duplicate 12|Rate Limit|Logged 2026-08-04 Post_ID 91|12x spike total
+2026-08-04|System|Rate Limit Hypothesis 12x spike = INFLECTION #2|FB+IG|91|https://facebook.com/post/91|hash91|Rate limit spike duplicate 12 — 12x spike total|Rate Limit|Logged 2026-08-04 Post_ID 91|12x spike total
 2026-08-04|Nancy Mace|Handmaid's Tale duplicate 2|Facebook|92|https://facebook.com/post/92|hash92|Handmaid's Tale 2nd|Rate Limit|Logged 2026-08-04 Post_ID 92|Duplication Handmaid 2
 2026-08-04|Meta System|Rate Limit extra|FB+IG|93|https://facebook.com/post/93|hash93|Rate limit extra|Rate Limit|Logged 2026-08-04 Post_ID 93|Extra rate limit
 2026-08-04|Meta System|Filter test|Facebook|94|https://facebook.com/post/94|hash94|Filter test extra|Filter|Logged 2026-08-04 Post_ID 94|Extra filter
