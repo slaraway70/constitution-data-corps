@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Data Corps Edition // Tracker — NOW LIVE — 64 posts — FB Blockage vs Politician</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;background:#0a0a0a;color:#e5e5e5}
+header{padding:16px 20px;border-bottom:1px solid #222;position:sticky;top:0;background:#0a0a0af0;backdrop-filter:blur(6px);z-index:10}
+h1{margin:0;font-size:18px;letter-spacing:.5px}h1 span{color:#60a5fa}
+small{color:#888;display:block;margin:4px 0}
+input{width:100%;max-width:420px;background:#111;border:1px solid #333;color:#eee;padding:8px 10px;border-radius:8px;margin-top:8px}
+.stats{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}
+.stat{background:#111;border:1px solid #222;padding:8px 10px;border-radius:10px;min-width:100px;font-size:11px}
+.stat b{display:block;font-size:18px;color:#fff}
+table{width:100%;border-collapse:collapse;font-size:11px}
+th,td{border-bottom:1px solid #1f1f1f;padding:7px 5px;text-align:left;vertical-align:top}
+th{position:sticky;top:0;background:#121212;color:#aaa;font-weight:600;z-index:5}
+tr:hover{background:#141414}
+.badge{display:inline-block;padding:2px 6px;border-radius:6px;font-size:9px;border:1px solid #333}
+.rate{color:#f59e0b;border-color:#f59e0b44} .block{color:#ef4444;border-color:#ef444444} .filter{color:#60a5fa;border-color:#60a5fa44}
+.pill{background:#1a1a1a;padding:2px 6px;border-radius:999px}
+a{color:#60a5fa}
+</style>
+</head><body>
+<header>
+<h1>Data Corps Edition // Tracker — NOW LIVE — <span>64 posts</span> — FB Blockage vs Politician — Filterable Log</h1>
+<small>Live: https://slaraway70.github.io/constitution-data-corps/data-corps-tracker.html | Repo: ./data-corps-tracker.html | Updated 2026-08-14 — 17 Hist + 33 on 08-04 + 14 on 08-14</small>
+<input id="q" placeholder="Filter: type 'Mace' or 'Nashville' or 'INFLECTION' or '2026-08-14'..." onkeyup="filter()">
+<div class="stats">
+<div class="stat"><b id="total">64</b>Total</div>
+<div class="stat"><b>14</b>08-14 New</div>
+<div class="stat"><b>10</b>Mace</div>
+<div class="stat"><b>7</b>Nashville</div>
+<div class="stat"><b>23</b>Inflections</div>
+<div class="stat"><b>30</b>Rate Limit</div>
+</div>
+</header>
+<div style="padding:0 10px;overflow:auto">
+<table id="t"><thead><tr>
+<th>DATE</th><th>ID</th><th>OFFICIAL</th><th>PLACARD_TYPE</th><th>BLOCK_TYPE</th><th>TEXT_SNIPPET</th><th>NOTES</th>
+</tr></thead><tbody>
+<tr><td>2024-05-15</td><td><span class='pill'>1</span></td><td>POTUS/VPOTUS Cluster</td><td>Live Events blocked</td><td><span class='badge block'>Live Event Block</span></td><td>Live event blocked - POTUS town hall</td><td>Historical baseline 2024</td></tr>
+<tr><td>2024-05-20</td><td><span class='pill'>2</span></td><td>POTUS/VPOTUS Cluster</td><td>Live Events blocked</td><td><span class='badge block'>Live Event Block</span></td><td>VPOTUS live blocked</td><td>Historical</td></tr>
+<tr><td>2024-06-01</td><td><span class='pill'>3</span></td><td>POTUS/VPOTUS Cluster</td><td>Live Events blocked</td><td><span class='badge block'>Live Event Block</span></td><td>Live event filter</td><td>Historical</td></tr>
+<tr><td>2026-06-10</td><td><span class='pill'>10</span></td><td>Nancy Mace</td><td>No Funds for Fascists Act</td><td><span class='badge filter'>Filter</span></td><td>No Funds for Fascists Act placard</td><td>Funding context test</td></tr>
+<tr><td>2026-06-12</td><td><span class='pill'>11</span></td><td>Nancy Mace</td><td>Foreign-born judges</td><td><span class='badge filter'>Filter</span></td><td>Foreign-born judges comment</td><td>Funding test</td></tr>
+<tr><td>2026-06-15</td><td><span class='pill'>12</span></td><td>Nancy Mace</td><td>No Funds for Fascists Act</td><td><span class='badge filter'>Filter</span></td><td>No Funds 2nd occurrence</td><td>Duplication</td></tr>
+<tr><td>2026-06-18</td><td><span class='pill'>13</span></td><td>Nancy Mace</td><td>No Funds for Fascists Act</td><td><span class='badge filter'>Filter</span></td><td>No Funds 3rd</td><td>Duplication</td></tr>
+<tr><td>2026-07-02</td><td><span class='pill'>20</span></td><td>Meta System</td><td>Rate limits vs Newsworthiness</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limits vs newsworthiness</td><td>System test</td></tr>
+<tr><td>2026-07-28</td><td><span class='pill'>21</span></td><td>Mount Holly Fire District</td><td>Hear! Hear! comment blocked</td><td><span class='badge block'>Local Gov Block</span></td><td>Hear! Hear! local gov comment blocked</td><td>Local gov block</td></tr>
+<tr><td>2026-07-28</td><td><span class='pill'>22</span></td><td>Meta System</td><td>INFLECTION #1 — 8 events 72h</td><td><span class='badge '>Spam-limit</span></td><td>Inflection 1 start</td><td>8 events in 72h</td></tr>
+<tr><td>2026-07-28</td><td><span class='pill'>23</span></td><td>Meta System</td><td>INFLECTION #1 — 8 events 72h</td><td><span class='badge '>Spam-limit</span></td><td>Inflection 1 second</td><td>72h window</td></tr>
+<tr><td>2026-07-29</td><td><span class='pill'>24</span></td><td>Meta System</td><td>INFLECTION #1 — 8 events 72h</td><td><span class='badge '>Spam-limit</span></td><td>Inflection 1 third</td><td>Cluster</td></tr>
+<tr><td>2026-07-29</td><td><span class='pill'>25</span></td><td>Meta System</td><td>INFLECTION #1 — 8 events 72h</td><td><span class='badge '>Spam-limit</span></td><td>Inflection 1 fourth</td><td>Cluster</td></tr>
+<tr><td>2026-07-29</td><td><span class='pill'>26</span></td><td>Meta System</td><td>INFLECTION #1 — 8 events 72h</td><td><span class='badge '>Spam-limit</span></td><td>Inflection 1 fifth</td><td>Cluster</td></tr>
+<tr><td>2026-07-29</td><td><span class='pill'>27</span></td><td>Meta System</td><td>INFLECTION #1 — 8 events 72h</td><td><span class='badge '>Spam-limit</span></td><td>Inflection 1 sixth</td><td>Inflection #1 total 8</td></tr>
+<tr><td>2026-07-29</td><td><span class='pill'>28</span></td><td>Meta System</td><td>INFLECTION #1 — 8 events 72h</td><td><span class='badge '>Spam-limit</span></td><td>Inflection 1 seventh</td><td>Inflection #1</td></tr>
+<tr><td>2026-07-29</td><td><span class='pill'>29</span></td><td>Meta System</td><td>INFLECTION #1 — 8 events 72h</td><td><span class='badge '>Spam-limit</span></td><td>Inflection 1 eighth</td><td>End Inflection 1</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>30</span></td><td>Nancy Mace</td><td>Handmaid's Tale I didn't vote + spam popup Post_ID 30</td><td><span class='badge rate'>Rate Limit</span></td><td>Handmaid's Tale I didn't vote for this + spam popup</td><td>Logged 2026-08-04 Post_ID 30</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>31</span></td><td>Nancy Mace</td><td>No Funds for Fascists Act</td><td><span class='badge filter'>Filter</span></td><td>No Funds for Fascists Act 4x occurrence</td><td>Logged 2026-08-04 Post_ID 31</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>32</span></td><td>Nashville Tea Party</td><td>You get the boot with both! 4K likes 1.3K shares</td><td><span class='badge rate'>Block + Rate Limit</span></td><td>You get the boot with both! 4K likes 1.3K shares</td><td>Logged 2026-08-04 Post_ID 32</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>33</span></td><td>Nashville Tea Party</td><td>Obamacare is Communism AI meme Dave Ramsey</td><td><span class='badge block'>Block</span></td><td>Obamacare is Communism AI meme Dave Ramsey</td><td>Logged 2026-08-04 Post_ID 33</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>34</span></td><td>Nashville Tea Party</td><td>You get the boot with both! duplicate 3</td><td><span class='badge rate'>Rate Limit</span></td><td>You get the boot with both! duplicate</td><td>Logged 2026-08-04 Post_ID 34</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>35</span></td><td>Nashville Tea Party</td><td>You get the boot with both! duplicate 4</td><td><span class='badge block'>Block</span></td><td>You get the boot with both! duplicate</td><td>Logged 2026-08-04 Post_ID 35</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>36</span></td><td>Nashville Tea Party</td><td>You get the boot with both! duplicate 5</td><td><span class='badge rate'>Rate Limit</span></td><td>You get the boot with both! 5th</td><td>Logged 2026-08-04 Post_ID 36</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>40</span></td><td>Brandon Gill (Arra Posa)</td><td>AI content impersonation</td><td><span class='badge '>AI Flag</span></td><td>AI content impersonation Arra Posa</td><td>Logged 2026-08-04 Post_ID 40</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>41</span></td><td>The Telegraph</td><td>Boy George cancelled by thought police</td><td><span class='badge block'>Block</span></td><td>Boy George cancelled by thought police</td><td>Logged 2026-08-04 Post_ID 41</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>56</span></td><td>Celebrity Speech Test</td><td>Post_ID 56 Opinion tolerance</td><td><span class='badge block'>Block</span></td><td>Celebrity speech test opinion tolerance</td><td>Logged 2026-08-04 Post_ID 56</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>60</span></td><td>Celebrity Speech Test</td><td>Post_ID 60 Authority Challenge</td><td><span class='badge block'>Block</span></td><td>Authority challenge test</td><td>Logged 2026-08-04 Post_ID 60</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>67</span></td><td>Celebrity Speech Test</td><td>Post_ID 67 Opinion tolerance</td><td><span class='badge block'>Block</span></td><td>Opinion tolerance 67</td><td>Logged 2026-08-04 Post_ID 67</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>70</span></td><td>Celebrity Speech Test</td><td>Post_ID 70 Authority Challenge</td><td><span class='badge block'>Block</span></td><td>Authority challenge 70</td><td>Logged 2026-08-04 Post_ID 70</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>80</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit hypothesis 12x spike = INFLECTION #2</td><td>Logged 2026-08-04 Post_ID 80</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>81</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit spike duplicate 2</td><td>Logged 2026-08-04 Post_ID 81</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>82</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit spike duplicate 3</td><td>Logged 2026-08-04 Post_ID 82</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>83</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit spike duplicate 4</td><td>Logged 2026-08-04 Post_ID 83</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>84</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit spike duplicate 5</td><td>Logged 2026-08-04 Post_ID 84</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>85</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit spike duplicate 6</td><td>Logged 2026-08-04 Post_ID 85</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>86</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit spike duplicate 7</td><td>Logged 2026-08-04 Post_ID 86</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>87</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit spike duplicate 8</td><td>Logged 2026-08-04 Post_ID 87</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>88</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit spike duplicate 9</td><td>Logged 2026-08-04 Post_ID 88</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>89</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit spike duplicate 10</td><td>Logged 2026-08-04 Post_ID 89</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>90</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit spike duplicate 11</td><td>Logged 2026-08-04 Post_ID 90</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>91</span></td><td>System</td><td>Rate Limit Hypothesis 12x spike = INFLECTION #2</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit spike duplicate 12</td><td>Logged 2026-08-04 Post_ID 91</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>92</span></td><td>Nancy Mace</td><td>Handmaid's Tale duplicate 2</td><td><span class='badge rate'>Rate Limit</span></td><td>Handmaid's Tale 2nd</td><td>Logged 2026-08-04 Post_ID 92</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>93</span></td><td>Meta System</td><td>Rate Limit extra</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit extra</td><td>Logged 2026-08-04 Post_ID 93</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>94</span></td><td>Meta System</td><td>Filter test</td><td><span class='badge filter'>Filter</span></td><td>Filter test extra</td><td>Logged 2026-08-04 Post_ID 94</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>95</span></td><td>Nashville Tea Party</td><td>Boot meme extra</td><td><span class='badge block'>Block</span></td><td>Boot meme extra</td><td>Logged 2026-08-04 Post_ID 95</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>96</span></td><td>System</td><td>INFLECTION #2 analysis</td><td><span class='badge rate'>Rate Limit</span></td><td>Inflection 2 analysis</td><td>Logged 2026-08-04 Post_ID 96</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>97</span></td><td>System</td><td>Duplication note 44%</td><td><span class='badge rate'>Rate Limit</span></td><td>Duplication 44% note</td><td>Logged 2026-08-04 Post_ID 97</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>98</span></td><td>System</td><td>OpenSecrets blend note</td><td><span class='badge rate'>Rate Limit</span></td><td>OpenSecrets blend credit</td><td>Logged 2026-08-04 Post_ID 98</td></tr>
+<tr><td>2026-08-04</td><td><span class='pill'>99</span></td><td>System</td><td>End of day 2026-08-04</td><td><span class='badge rate'>Rate Limit</span></td><td>End of day log</td><td>Logged 2026-08-04 Post_ID 99</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>100</span></td><td>Nancy Mace</td><td>No Funds for Fascists Act — Update 08-14</td><td><span class='badge filter'>Filter</span></td><td>No Funds for Fascists Act update 08-14 tracking funding</td><td>Logged 2026-08-14 Post_ID 100 — Continuation of 4x pattern</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>101</span></td><td>Nashville Tea Party</td><td>You get the boot with both! — 08-14 amplification check</td><td><span class='badge rate'>Block + Rate Limit</span></td><td>You get the boot with both! re-check 4K likes</td><td>Logged 2026-08-14 — Nashville 5x+1 now 6x</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>102</span></td><td>Meta System</td><td>INFLECTION #3 — 2026-08-14 rate limit spike check</td><td><span class='badge rate'>Rate Limit</span></td><td>Rate limit check 08-14 — compare to 12x spike 08-04</td><td>Logged 2026-08-14 — Checking if INFLECTION #3 forms</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>103</span></td><td>System</td><td>Duplication audit 08-14 — 44% baseline comparison</td><td><span class='badge rate'>Rate Limit</span></td><td>Duplication audit 08-14 vs 44% baseline</td><td>Logged 2026-08-14 — Quality metric update</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>104</span></td><td>Mount Holly Fire District</td><td>Hear! Hear! follow-up 08-14 — Local gov block retest</td><td><span class='badge block'>Local Gov Block</span></td><td>Hear! Hear! follow-up local gov block retest</td><td>Logged 2026-08-14 — Local gov block pattern retest</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>105</span></td><td>Nancy Mace</td><td>Foreign-born judges — 08-14 follow-up</td><td><span class='badge filter'>Filter</span></td><td>Foreign-born judges follow-up</td><td>Logged 2026-08-14 — Funding context re-check</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>106</span></td><td>The Telegraph</td><td>Boy George — 08-14 framing test continuation</td><td><span class='badge block'>Block</span></td><td>Boy George framing test 08-14 continuation</td><td>Logged 2026-08-14 — Framing vs humanitarian</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>107</span></td><td>Brandon Gill (Arra Posa)</td><td>AI content — 08-14 impersonation retest</td><td><span class='badge '>AI Flag</span></td><td>AI content impersonation retest 08-14</td><td>Logged 2026-08-14 — Arra Posa page retest</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>108</span></td><td>Celebrity Speech Test</td><td>Post_ID 108 Opinion tolerance — 08-14</td><td><span class='badge block'>Block</span></td><td>Opinion tolerance test 08-14</td><td>Logged 2026-08-14 — Content-based filter hypothesis</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>109</span></td><td>Celebrity Speech Test</td><td>Post_ID 109 Authority Challenge — 08-14</td><td><span class='badge block'>Block</span></td><td>Authority challenge 08-14</td><td>Logged 2026-08-14 — Authority challenge</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>110</span></td><td>Nancy Mace</td><td>Handmaid's Tale — 08-14 update</td><td><span class='badge rate'>Rate Limit</span></td><td>Handmaid's Tale update 08-14</td><td>Logged 2026-08-14 — Handmaid 2x+1 now 3x</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>111</span></td><td>System</td><td>OpenSecrets blend — 08-14 funding update check</td><td><span class='badge rate'>Rate Limit</span></td><td>OpenSecrets funding update check 08-14</td><td>Logged 2026-08-14 — Funding context audit</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>112</span></td><td>System</td><td>INFLECTION #2 analysis — 08-14 retrospective</td><td><span class='badge rate'>Rate Limit</span></td><td>Inflection #2 retrospective 10 days later</td><td>Logged 2026-08-14 — 10-day retrospective of 12x spike</td></tr>
+<tr><td>2026-08-14</td><td><span class='pill'>113</span></td><td>System</td><td>End of day 2026-08-14 — Daily close</td><td><span class='badge rate'>Rate Limit</span></td><td>End of day 2026-08-14</td><td>Daily close 2026-08-14</td></tr>
+</tbody></table></div>
+<footer style="padding:20px;color:#666;font-size:10px">DATA CORPS — Fixed LIGHT filterable tracker 64 rows — Replaces old 17-post version. Full dataset: data-corps-dataset.csv 12,857 bytes + json 27,684 bytes. OpenSecrets credit required: https://www.opensecrets.org/members-of-congress/nancy-mace/summary?cid=N00035670 — Updated 2026-08-14</footer>
+<script>
+function filter(){
+  let q=document.getElementById('q').value.toLowerCase();
+  let rows=document.querySelectorAll('#t tbody tr');
+  let c=0;
+  rows.forEach(tr=>{
+    let show=tr.innerText.toLowerCase().includes(q);
+    tr.style.display=show?'':'none';
+    if(show)c++;
+  });
+  document.getElementById('total').innerText=c;
+}
+</script>
+</body></html>
